@@ -1,10 +1,3 @@
-#
-#           SAKARYA ÜNİVERSİTESİ BİLGİSAYAR VE BİLİŞİM BİLİMLERİ FAKÜLTESİ
-#                           BİLGİSAYAR MÜHENDİSLİĞİ BÖLÜMÜ
-#               BİLGİSAYAR MÜHENDİSLİĞİ TASARIMI - 2. ÖĞRETİM P GRUBU
-#           EDA NUR KARAMUK - G181210061 & ELİF RUMEYSA AYDIN - G181210031
-#
-#
 
 import sqlite3 as sql
 
